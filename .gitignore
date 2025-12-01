@@ -36,5 +36,6 @@ build/
 /.idea
 *.iml
 src/main/resources/application.properties
+employee-ui/node_modules/
 
 
